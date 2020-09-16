@@ -92,9 +92,9 @@
 .horizontal-line {
   height: 1px;
   background: #4c4c4c;
-  width: 100vh;
+  width: 50%;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto
 }
 
 .border-right {
