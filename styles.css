@@ -1,0 +1,188 @@
+.navbar-nav {
+  padding-right: 5%;
+}
+
+.header-text {
+  font-size: 2rem;
+  padding: 4%;
+  padding-bottom: 1%;
+  padding-left: 4%;
+}
+
+.sub-text {
+  font-size: 1.5rem;
+  color: #4c4c4c;
+}
+
+.header-text .bottom-line {
+  height:5px;
+  background:black;
+  width:15vh;
+  margin:15px 0px;
+}
+
+.content {
+  font-size: 1.2rem;
+  padding: 2%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.column {
+  text-align: center;
+}
+
+.team-img {
+  border-radius: 100%;
+  padding: 4%;
+}
+
+.first-img {
+  width: 70%;
+}
+
+.img-text-1 {
+  padding-left: 2%;
+  padding-top: 2%;
+}
+
+.img-text-2 {
+  padding-left: 2%;
+  font-weight: bold;
+}
+
+.media {
+  padding-top: 4%;
+  padding-bottom: 4%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.media-img {
+  width: 100%;
+  padding: 4%;
+  padding-top: 0;
+}
+
+.media-col {
+  padding-left: 4%;
+}
+
+.footer {
+  color: white;
+  background-color: #4c4c4c;
+  margin-top: 3%;
+  padding: 4%;
+  padding-bottom: 1%;
+}
+
+.footer-head {
+  font-size: 1.5rem;
+  padding-bottom: 1%;
+  padding-top: 2%;
+}
+
+.footer-head .bottom-line {
+  height:3px;
+  background:white;
+  width:10vh;
+  margin:15px 0px;
+}
+
+.horizontal-line {
+  height: 1px;
+  background: #4c4c4c;
+  width: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.border-right {
+  border-right: 1px dashed #333;
+  padding-right: 5%;
+}
+
+.sub-header-text-1 {
+  font-size: 1.8rem;
+  padding: 4%;
+  padding-bottom: 1%;
+}
+
+.sub-header-text-2 {
+  font-size: 1.2rem;
+  padding: 4%;
+  padding-bottom: 1%;
+  padding-top: 0;
+}
+
+.sub-header-text-2 .bottom-line {
+  height:2px;
+  background:black;
+  width:15vh;
+  margin:15px 0px;
+}
+
+.list-items {
+  padding: 4%;
+}
+
+.list-group-item {
+  font-size: 1.2rem;
+  padding: 4%;
+}
+
+.program-2 {
+  padding-left: 5%;
+}
+
+.item-text .bottom-line, .machine-text .bottom-line {
+  height:1px;
+  background:#e8e8e8;
+  width:90%;
+  margin:15px -10px;
+}
+
+.item-text {
+  font-size: 1.2rem;
+  padding-left: 5%;
+  padding-top: 4%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.machine-img {
+  width: 100%;
+  border-radius: 15%;
+}
+
+.machine-text {
+  font-size: 1.1rem;
+  padding: 4%;
+  text-align: center;
+  color: #4c4c4c;
+  text-decoration: none;
+}
+
+.machine-row {
+  padding-top: 2%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+img.machine-img:hover{
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.machine-col {
+  padding: 2.5%;
+}
