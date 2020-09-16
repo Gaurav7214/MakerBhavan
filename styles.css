@@ -9,6 +9,14 @@
   padding-left: 4%;
 }
 
+.sub-header {
+  font-size: 1.2rem;
+  padding: 4%;
+  padding-bottom: 1%;
+  padding-left: 4%;
+  padding-top: 1%;
+}
+
 .sub-text {
   font-size: 1.5rem;
   color: #4c4c4c;
@@ -99,6 +107,7 @@
 
 .border-right {
   border-right: 1px dashed #333;
+  padding: 4%;
   padding-right: 5%;
 }
 
@@ -185,4 +194,14 @@ img.machine-img:hover{
 
 .machine-col {
   padding: 2.5%;
+}
+
+.img-main {
+  width: 100%;
+  padding: 4%;
+}
+
+.machine-item {
+  font-size: 1.1rem;
+  padding: 1%;
 }
