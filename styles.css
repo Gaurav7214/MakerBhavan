@@ -58,7 +58,11 @@
 }
 
 .first-img {
-  width: 70%;
+  width: 35vh;
+}
+
+.second-img {
+  width: 30vh;
 }
 
 .img-text-1 {
